@@ -1,0 +1,14 @@
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\bin\Debug\net7.0\StudentDataBase1.exe
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\bin\Debug\net7.0\StudentDataBase1.deps.json
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\bin\Debug\net7.0\StudentDataBase1.runtimeconfig.json
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\bin\Debug\net7.0\StudentDataBase1.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\bin\Debug\net7.0\StudentDataBase1.pdb
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\StudentDataBase1.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\StudentDataBase1.AssemblyInfoInputs.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\StudentDataBase1.AssemblyInfo.cs
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\StudentDataBase1.csproj.CoreCompileInputs.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\StudentDataBase1.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\refint\StudentDataBase1.dll
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\StudentDataBase1.pdb
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\StudentDataBase1.genruntimeconfig.cache
+E:\1. 2024\Grand CIrcus\6. KEVINS PROJECTS\StudentDataBase1\obj\Debug\net7.0\ref\StudentDataBase1.dll

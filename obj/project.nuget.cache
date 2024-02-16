@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BNcW4ONF1k2kiXyxjHWSMz0Cd7vI5VAaW3nJuKojkd3YctP7ki6bCIlRxW+cwK7LBhiGKxcewko1R0+y1YUQNQ==",
+  "success": true,
+  "projectFilePath": "E:\\1. 2024\\Grand CIrcus\\6. KEVINS PROJECTS\\StudentDataBase1\\StudentDataBase1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kb000\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\kb000\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\kb000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\kb000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
